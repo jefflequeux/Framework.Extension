@@ -10,5 +10,4 @@ This is a demo of all styled elements in Jekyll Now.
 ### Header 3
 
 #### Header 4
-
-A link to [Jekyll Now
+ffsfssffsfsfsfs
